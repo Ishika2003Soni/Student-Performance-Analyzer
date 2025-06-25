@@ -1,8 +1,3 @@
-
----
-
-### ✅ `requirements.txt` (optional helper)
-```txt
 streamlit
 pandas
 matplotlib
